@@ -1,6 +1,6 @@
 # bhportscan
-Port scan target(s) using nmap
-Based on bash and `gargs` developed by `brentp`
+Port scan bash scripts target(s) using nmap and `gargs` developed by `brentp`
+
 
 ## Setup 
 Setup the docker container by running the following command:
